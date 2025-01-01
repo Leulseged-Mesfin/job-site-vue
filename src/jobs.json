@@ -85,32 +85,18 @@
       }
     },
     {
-      "id": "2856",
-      "type": "Internship",
-      "title": "Kalia Mays",
-      "description": "Ut voluptatem Solut",
-      "salary": "$50K - $60K",
-      "location": "Hic velit ipsum con",
+      "type": "Remote",
+      "title": "Junior Vue Dev",
+      "description": "Vel est cupiditate q",
+      "salary": "$80K - $90K",
+      "location": "Anim ad ut molestiae",
       "company": {
-        "name": "Hammond and Meyers Inc",
-        "description": "Delectus voluptatem",
-        "contactEmail": "maxaqogeny@mailinator.com",
-        "contactPhone": "+1 (887) 185-9605"
-      }
-    },
-    {
-      "id": "c705",
-      "type": "Part-Time",
-      "title": "Vue Dev",
-      "description": "Tenetur cupidatat pa",
-      "salary": "$175K - $200K",
-      "location": "Sit mollit vel cillu",
-      "company": {
-        "name": "Hoffman and Jackson Trading",
-        "description": "Minima ea est commo",
-        "contactEmail": "lujadykama@mailinator.com",
-        "contactPhone": "+1 (982) 563-7312"
-      }
+        "name": "Horne Marquez LLC",
+        "description": "Cumque dolore animi",
+        "contactEmail": "puqixamugo@mailinator.com",
+        "contactPhone": "+1 (648) 147-9745"
+      },
+      "id": "7896"
     }
   ]
 }
